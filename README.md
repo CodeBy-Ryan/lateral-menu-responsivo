@@ -18,7 +18,7 @@ Este projeto fornece uma **navbar responsiva** que se adapta para dispositivos m
 ## 🚀 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/CodeBy-Ryan/menu-responsivo.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 3. Para personalizar, edite os arquivos CSS e JavaScript conforme necessário.
