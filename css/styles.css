@@ -11,6 +11,7 @@ body {
   padding: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: var(--text-color);
+  transition: all background-color 0.5s ease;
 }
 
 .menu-lateral {
@@ -20,8 +21,9 @@ body {
   width: 300px;
   height: 100%;
   background-color: var(--background-color);
-  z-index: 2;
+  z-index: 5;
   box-shadow: 0 0 20px rgb(0, 0, 0, 0.1);
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 
 .menu-lateral.ativo {
@@ -64,20 +66,21 @@ body {
   position: fixed;
   left: 20px;
   top: 20px;
-  z-index: 3;
+  z-index: 6;
   border-radius: 5px;
   font-size: 24px;
   border: none;
   padding: 10px 15px;
   cursor: pointer;
   color: var(--text-color);
+  transition: all 0.5s ease;
 }
 
 .botao-menu:hover {
   background-color: var(--secondary-color);
 }
 
-.botão-menu.ativo {
+.botao-menu.ativo {
   left: 320px;
 }
 
@@ -87,10 +90,14 @@ body {
   margin-left: 80px;
   padding: 40px;
   color: var(--text-secondary-color);
+  background-color: var(--text-color);
+  transition: all background-color 0.5s ease;
 }
 
 .conteudo.ativo {
-  margin-left: 320px;
+  margin-left: 380px;
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 .background {
@@ -103,4 +110,9 @@ body {
   opacity: 0;
   visibility: hidden;
   z-index: 4;
+}
+
+.background.ativo {
+  opacity: 1;
+  visibility: visible;
 }
