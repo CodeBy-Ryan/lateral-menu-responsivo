@@ -1,6 +1,6 @@
 # Navbar Responsiva com Menu
 
-Este projeto fornece uma **navbar responsiva** que se adapta para dispositivos móveis, exibindo um **menu** quando ativado.
+Este projeto fornece uma **navbar responsiva** que se adapta para dispositivos móveis, exibindo um **menu** quando ativadoooo.
 
 ## 🛠 Tecnologias Utilizadas
 - **HTML**
