@@ -1,4 +1,4 @@
-# Navbar Responsiva com Menu
+# Navbar Responsiva com Menu e ICONS
 
 Este projeto fornece uma **navbar responsiva** que se adapta para dispositivos móveis, exibindo um **menu** quando ativado.
 
