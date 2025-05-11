@@ -1,35 +1,27 @@
-# Navbar Responsiva com Menu e ICONS
+# Menu Lateral Responsivo
 
-Este projeto fornece uma **navbar responsiva** que se adapta para dispositivos móveis, exibindo um **menu** quando ativado.
+![Imagem do projeto](link-da-imagem-do-projeto)
 
-## 🛠 Tecnologias Utilizadas
-- **HTML**
-- **CSS** 
-- **JavaScript** 
+## Descrição
 
-## 📌 Funcionalidades
-✅ Navbar fixa no topo da tela.  
-✅ No desktop, os links aparecem normalmente.  
-✅ No mobile, os links ficam escondidos e são acessados através de um menu.  
-✅ Ícone de **menu hambúrguer** para abrir o menu.  
-✅ Ícone de **fechar** dentro do menu para ocultá-lo.  
+Este projeto é um menu lateral responsivo, desenvolvido para sistemas web. Ele foi projetado para ser adaptável a diferentes dispositivos e oferecer uma navegação intuitiva e moderna. Ideal para sistemas administrativos e painéis de controle, permitindo fácil acesso às funcionalidades de forma organizada.
 
+## Funcionalidades
 
-## 🚀 Como Usar
-1. Clone este repositório:
+- Menu lateral responsivo que se adapta a diferentes tamanhos de tela.
+- Design clean e moderno, com foco na experiência do usuário.
+- Navegação intuitiva e fácil de implementar.
+- Suporte para múltiplas opções de menus e submenus.
+
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilos e design responsivo.
+- **JavaScript**: Lógica de interação e comportamento do menu.
+- **Frameworks** (caso tenha usado algum como Bootstrap ou Tailwind): Para facilitar a criação do layout responsivo.
+
+## Como Usar
+
+1. Clone o repositório:
    ```bash
-   git clone https://github.com/CodeBy-Ryan/menu-responsivo.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-3. Para personalizar, edite os arquivos CSS e JavaScript conforme necessário.
-
-## 📝 Customização
-- Alterar cores e estilos no `style.css`.
-- Modificar a estrutura HTML conforme seu projeto.
-- Substituir ícones de menu e fechar na pasta `img/`.
-
-## 📜 Licença
-Este projeto está sob a licença **MIT** – sinta-se livre para modificá-lo e usá-lo como quiser!
-
----
-Desenvolvido com 💙 para facilitar a criação de menus responsivos! 🚀
+   git clone https://github.com/CodeBy-Ryan/lateral-menu-responsivo.git
